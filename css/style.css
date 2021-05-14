@@ -1,0 +1,53 @@
+.logo{
+  width: auto;
+  height: 30px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.btn-postobon{
+  color: #fff;
+  background-color: #e5271f;
+  border-color: #e5271f;
+}
+.btn-postobon:hover{
+  color: #fff;
+  background-color: #d81b06;
+  border-color: #e21101;
+}
+.btn-postobon:active{
+  color: #fff;
+  background-color: #e21101;
+  border-color: #e20c01;
+}
+.btn-postobon:focus{
+  color: #fff;
+  background-color: #e31701;
+  border-color: #e21101;
+  box-shadow: 0 0 0 0.25rem rgb(173 38 11 / 50%);
+}
+
+.btn-bodytech{
+  color: #fff;
+  background-color: #ef7e01;
+  border-color: #ef7e01;
+}
+.btn-bodytech:hover{
+  color: #fff;
+  background-color: #ed6e01;
+  border-color: #ec6801;
+}
+.btn-bodytech:active{
+  color: #fff;
+  background-color: #ec6801;
+  border-color: #eb6301;
+}
+.btn-bodytech:focus{
+  color: #fff;
+  background-color: #ed6e01;
+  border-color: #ec6801;
+  box-shadow: 0 0 0 0.25rem rgb(173 38 11 / 50%);
+}
+
